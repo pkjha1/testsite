@@ -1,0 +1,51 @@
+.image_slider_max_height .slick-slide img {
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.rewards .poster__button canvas {
+    display: none;
+}
+
+.rewards .poster__button {
+    cursor: default;
+}
+
+.about__body {
+    overflow: hidden;
+}
+
+.missing_page_block p {
+    margin: 0;
+    margin-bottom: 250px;
+    margin-top: 250px;
+    font-size: 3em;
+    line-height: 1em;
+}
+
+.dummy_margin_120 {
+    height: 50px;
+    background-color: #242424;
+}
+
+.case-one .text h4 {
+    padding: 27px 0 27px;
+}
+
+.constituents__col .deactive__link {
+    color: #bfbfbf;
+}
+
+.about-bim__schedule-block {
+    background: none;
+}
+
+.pro-apartment table img {
+    max-height: none;
+    vertical-align: bottom;
+}
+
+.hero__bg {
+    height: 101%;
+}
